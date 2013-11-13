@@ -1,0 +1,7 @@
+parameters:
+#    map_vision_user.example.class: MapVision\UserBundle\Example
+
+services:
+#    map_vision_user.example:
+#        class: %map_vision_user.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
